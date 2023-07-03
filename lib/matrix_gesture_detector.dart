@@ -129,7 +129,7 @@ class _MatrixGestureDetectorState extends State<MatrixGestureDetector> {
       onScaleStart: onScaleStart,
       onScaleUpdate: onScaleUpdate,
       onScaleEnd: onScaleEnd,
-      onTap: ,
+      onTap: onTap,
       child: child,
     );
   }
